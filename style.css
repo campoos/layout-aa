@@ -73,6 +73,7 @@ main {
 }
 
 .social div {
+    background-color: gray;
     height: 96px;
     width: 96px;
     border-radius: 50%;
@@ -85,7 +86,9 @@ main {
 }
 
 footer {
-    background-color: tomato;
-    height: 50px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
