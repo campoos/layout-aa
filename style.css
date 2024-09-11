@@ -31,7 +31,8 @@ header {
 .logo {
     height: 64px;
     width: 64px;
-    background-color: brown;
+    color: black;
+    background-image: url("./imagens/pneu.png");
 }
 .menu ul{
     display: flex;
@@ -59,6 +60,7 @@ main {
 }
 
 .acao button {
+    margin: 20px 0px 20px 0px;
     height: 100px;
     width: 400px;
     background-color: black;
@@ -73,6 +75,7 @@ main {
 }
 
 .social div {
+    margin-top: 20px;
     background-color: gray;
     height: 96px;
     width: 96px;
@@ -80,7 +83,8 @@ main {
 }
 
 .imagem {
-    background-color: gray;
+    background-image: url("./imagens/pneu_agricola.png");
+    background-size: 896px 780px;
     height: 100%;
     width: 50%;
 }
