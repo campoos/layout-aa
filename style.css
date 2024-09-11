@@ -56,7 +56,7 @@ main {
 
 .conteudo p {
     width: 90%;
-    font-size: 48px;
+    font-size: 27px;
 }
 
 .acao button {
@@ -84,7 +84,8 @@ main {
 
 .imagem {
     background-image: url("./imagens/pneu_agricola.png");
-    background-size: 896px 780px;
+    background-size: 80%;
+    background-position: 170px;
     height: 100%;
     width: 50%;
 }
